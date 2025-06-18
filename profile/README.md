@@ -74,30 +74,33 @@
 
 ### Backend
 ```
-git clone https://github.com/2024-Winter-Bootcamp-TeamC/InsideOut-Backend.git
+git clone https://github.com/mobile-wedding/Wedding-Backend.git
 ```
 
 ### env setting in the Backend folder
 app/.env
 
 ```
-GOOGLE_VISION_API_KEY=
-
-# 클로드 api key
-ANTHROPIC_API_KEY=
-
-ELEVENLABS_API_KEY=
-
-REQUIREPASS=redis
-
-REDIS_HOST =
-REDIS_PORT = 
-REDIS_DATABASE =
-
+MYSQL_HOST=
+MYSQL_PORT=
+MYSQL_DB=
+MYSQL_PASSWORD=
 MYSQL_ROOT_PASSWORD=
-MYSQL_DATABASE=
+MYSQL_USER=
 
-MYSQL_DATABASE_URL =
+
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_REGION=
+AWS_S3_BUCKET_NAME=
+
+OPENAI_API_KEY=
+
+EMAIL_ADDRESS=
+EMAIL_PASSWORD=
+EMAIL_HOST=
+EMAIL_PORT=
+
 ```
 
 ### Run Docker
@@ -107,7 +110,7 @@ docker-compose up -d --build
 
 ### Frontend
 ```
-https://github.com/2024-Winter-Bootcamp-TeamC/InSideOut-Frontend.git
+https://github.com/mobile-wedding/Wedding-Frontend.git
 ```
 
 ```
