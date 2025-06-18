@@ -61,7 +61,7 @@
 </div>
 
 ## 🎨 ERD
-<img width="1290" height="500" alt="Datebase" src="https://github.com/user-attachments/assets/26492fca-c5a4-4e43-8794-708c0f59899e">
+<img width="1290" height="500" alt="Datebase" src="https://github.com/user-attachments/assets/929db8d9-b7a4-4e0d-b8bf-f798dff74fda">
 
 ## 💻 API
 ![image](https://github.com/user-attachments/assets/a73f6dd0-3312-4cab-bead-b1e83409a401)
