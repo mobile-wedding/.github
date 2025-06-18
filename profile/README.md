@@ -124,99 +124,43 @@ npm run dev
   <summary><b>Frontend</b></summary>
     <pre>
       <code>
-📦 InsideOut-Frontend
-┣ 📂 .github
-┃ ┣ 📂 ISSUE_TEMPLATE
-┃ ┃ ┣ 📜 chore.md
-┃ ┃ ┣ 📜 design.md
-┃ ┃ ┣ 📜 feat.md
-┃ ┃ ┣ 📜 fix.md
-┃ ┃ ┗ 📜 refactor.md
-┃ ┣ 📂 workflows
-┃ ┃ ┣ 📜 close-issue-on-dev.yml
-┃ ┗ 📜 PULL_REQUEST_TEMPLATE.md
-┣ 📂 node_modules
+📦 Wedding-Frontend
 ┣ 📂 public
+┃ ┣ 📂 cards
+┃ ┃ ┣ 📜 card1_1.png
+┃ ┃ ┣ 📜 card1_2.png
+┃ ┃ ┣ 📜 card1_3.png
+┃ ┃ ┣ 📜 card1_4.png
+┃ ┃ ┣ 📜 card1.png
+┃ ┃ ┣ 📜 card2.png
+┃ ┃ ┣ 📜 card3.png
+┃ ┃ ┣ 📜 phone-left.png
+┃ ┃ ┗ 📜 phone-right.png
 ┃ ┗ 📜 vite.svg
 ┣ 📂 src
 ┃ ┣ 📂 assets
-┃ ┃ ┣ 📂 category
-┃ ┃ ┃ ┣ 📜 BackGround.png
-┃ ┃ ┃ ┣ 📜 Company.gif
-┃ ┃ ┃ ┣ 📜 Family.gif
-┃ ┃ ┃ ┣ 📜 Friends.gif
-┃ ┃ ┃ ┣ 📜 Love.gif
-┃ ┃ ┃ ┣ 📜 StaticCompany.png
-┃ ┃ ┃ ┣ 📜 StaticFamily.png
-┃ ┃ ┃ ┣ 📜 StaticFriends.png
-┃ ┃ ┃ ┗ 📜 StaticLove.png
-┃ ┃ ┣ 📂 ChatRoom
-┃ ┃ ┃ ┣ 📜 Anger.png
-┃ ┃ ┃ ┣ 📜 Anxiety.png
-┃ ┃ ┃ ┣ 📜 BackGround.png
-┃ ┃ ┃ ┣ 📜 Disgust.png
-┃ ┃ ┃ ┣ 📜 Embarrassment.png
-┃ ┃ ┃ ┣ 📜 Fear.png
-┃ ┃ ┃ ┣ 📜 Joy.png
-┃ ┃ ┃ ┣ 📜 ModelSelect.svg
-┃ ┃ ┃ ┣ 📜 PaperAirPlane.svg
-┃ ┃ ┃ ┣ 📜 Riley.png
-┃ ┃ ┃ ┗ 📜 Sadness.png
-┃ ┃ ┣ 📂 emotionselect
-┃ ┃ ┃ ┣ 📜 Anger.png
-┃ ┃ ┃ ┣ 📜 Anxiety.png
-┃ ┃ ┃ ┣ 📜 Disgust.png
-┃ ┃ ┃ ┣ 📜 Embarrassment.png
-┃ ┃ ┃ ┣ 📜 Fear.png
-┃ ┃ ┃ ┗ 📜 Sadness.png
-┃ ┃ ┣ 📂 fonts
-┃ ┃ ┃ ┣ 📜 BMHANNAPro.ttf
-┃ ┃ ┃ ┗ 📜 IntensaFuente.ttf
-┃ ┃ ┣ 📂 reportlist
-┃ ┃ ┃ ┣ 📜 CompanyObject.png
-┃ ┃ ┃ ┣ 📜 FamilyObject.png
-┃ ┃ ┃ ┣ 📜 FriendsObject.png
-┃ ┃ ┃ ┣ 📜 LoveObject.png
-┃ ┃ ┃ ┣ 📜 BackGroundBGM1.mp3
-┃ ┃ ┃ ┣ 📜 HomeButton.svg
-┃ ┃ ┃ ┣ 📜 login.jpg
-┃ ┃ ┃ ┣ 📜 preparation.png
-┃ ┃ ┃ ┣ 📜 react.svg
-┃ ┃ ┃ ┣ 📜 Report.svg
-┃ ┃ ┃ ┣ 📜 ReportDetail.jpg
-┃ ┃ ┃ ┣ 📜 text.png
-┃ ┃ ┃ ┣ 📜 Volume.png
-┃ ┃ ┃ ┗ 여러 감정별 PNG 파일
-┃ ┣ 📂 component
-┃ ┃ ┣ 📂 buttons
-┃ ┃ ┃ ┣ 📜 CategoryButton.jsx
-┃ ┃ ┃ ┣ 📜 HomeButton.css
-┃ ┃ ┃ ┣ 📜 HomeButton.jsx
-┃ ┃ ┃ ┗ 📜 ReportButton.jsx
-┃ ┃ ┣ 📜 CategoryImageFrame.jsx
-┃ ┃ ┣ 📜 ChatRoom.jsx
-┃ ┃ ┣ 📜 CharacterFrame.jsx
-┃ ┃ ┗ 📜 ChatFinishModal.jsx
-┃ ┣ 📂 emotionselect
-┃ ┃ ┣ 📜 BackLight.jsx
-┃ ┃ ┣ 📜 TextFrame.jsx
-┃ ┃ ┣ 📜 loading.jsx
-┃ ┃ ┗ 📜 StarrySky.jsx
+┃ ┃ ┗ 📜 react.svg
+┃ ┣ 📂 components
+┃ ┃ ┗ 📜 MapEmbed.jsx
 ┃ ┣ 📂 pages
-┃ ┃ ┣ 📜 category.jsx
-┃ ┃ ┣ 📜 ChatRoom.jsx
-┃ ┃ ┣ 📜 EmotionSelect.jsx
-┃ ┃ ┣ 📜 login.jsx
-┃ ┃ ┣ 📜 preparation.jsx
-┃ ┃ ┣ 📜 ReportDetail.jsx
-┃ ┃ ┗ 📜 reportlist.jsx
-┃ ┣ 📂 styles
-┃ ┃ ┗ 📜 GlobalStyle.js
-┃ ┣ 📜 App.css
+┃ ┃ ┣ 📜 Home.css
+┃ ┃ ┣ 📜 Home.jsx
+┃ ┃ ┣ 📜 Invitation.css
+┃ ┃ ┣ 📜 Invitation.jsx
+┃ ┃ ┣ 📜 InvitationDetail.css
+┃ ┃ ┣ 📜 InvitationDetail.jsx
+┃ ┃ ┣ 📜 InvitationPreview.jsx
+┃ ┃ ┣ 📜 InvitationSecurity.css
+┃ ┃ ┣ 📜 InvitationSecurity.jsx
+┃ ┃ ┣ 📜 Login.css
+┃ ┃ ┣ 📜 Login.jsx
+┃ ┃ ┣ 📜 SignUp.css
+┃ ┃ ┗ 📜 SignUp.jsx
 ┃ ┣ 📜 App.jsx
-┃ ┣ 📜 index.css
 ┃ ┗ 📜 main.jsx
+┣ 📜 .env
 ┣ 📜 .gitignore
+┣ 📜 dist.zip
 ┣ 📜 eslint.config.js
 ┣ 📜 index.html
 ┣ 📜 package-lock.json
