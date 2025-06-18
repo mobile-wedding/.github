@@ -228,9 +228,10 @@ npm run dev
 <th>Profiles</th>
 <td width="100" align="center">
 <a href="https://github.com/bumjpark">
-<img src="" width="120" height="160">
+<img src="https://github.com/user-attachments/assets/00b84bdc-cd1a-4fa5-b619-e0fe899d1a09" width="120" height="160">
 </a>
 </td>
+
 
 <th>Name</th>
 <td width="100" align="center">박종범</td>
