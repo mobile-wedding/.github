@@ -18,6 +18,7 @@
 <br>
 
 
+
 ## 🎥 Demo
 |**회원가입 페이지**|**로그인 페이지**|
 |:-------------------:|:---------:|
@@ -28,6 +29,9 @@
 |<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/f696afbb-bc08-471f-bddb-be1a1255e01f">|<img width="390" height="220" alt="Debate Page" src="https://github.com/user-attachments/assets/6ebc1d3f-c517-4476-8322-0be4c6b6ce91">|
 |**청첩장 만들기**|**청첩장 만들기**|
 |<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/ba2bdcb1-0548-4435-a296-dc5a83364a16">|<img width="390" height="220" alt="report list Page" src="https://github.com/user-attachments/assets/81eacebe-9696-4104-9f60-159df87d5646">|
+|**보안화면**|**완성된 청첩장**|
+|<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/146180a2-7507-4183-b861-1a5a12357cc6"">|<img width="390" height="220" alt="report list Page" src="https://github.com/user-attachments/assets/72b8979e-bcb3-4173-a490-f465e0e8cbaf">|
+
 
 <br>
 
