@@ -19,15 +19,19 @@
 
 
 
+<img width="1364" alt="홈 사진1" src="https://github.com/user-attachments/assets/cebf9217-f7ba-4f22-bee0-90523399a65e" />
+<img width="1364" alt="홈 사진1" src="https://github.com/user-attachments/assets/cebf9217-f7ba-4f22-bee0-90523399a65e" />
 
+<img width="1363" alt="홈사진2" src="" />
+<img width="1363" alt="홈사진2" src="https://github.com/user-attachments/assets/7f03b87b-0c27-4823-8f3b-36ba4679a91f" />
 
 
 ## 🎥 Demo
 |**회원가입 페이지**|**로그인 페이지**|
 |:-------------------:|:---------:|
 |<img width="390" height="220" alt="Login Page" src="https://github.com/user-attachments/assets/8eb36c03-c54a-4ba8-ae88-34141bc80983">|<img width="390" height="220" alt="category Page" src="https://github.com/user-attachments/assets/3efc75ea-d067-4247-bf71-5418aa8d5f46">|
-|**상황 설명 및 사진 업로드 페이지**|**7개 감정 한줄평 페이지**|
-|<img width="390" height="220" alt="content Page1" src="https://github.com/user-attachments/assets/7e314c84-7aa4-48d3-b038-2f72861ab2c5">|<img width="390" height="220" alt="seven ai Page2" src="https://github.com/user-attachments/assets/94b18db5-3526-4f46-8d27-fd32d6c20617">|
+|**홈 페이지**|**홈 페이지**|
+|<img width="390" height="220" alt="content Page1" src="https://github.com/user-attachments/assets/cebf9217-f7ba-4f22-bee0-90523399a65e">|<img width="390" height="220" alt="seven ai Page2" src="https://github.com/user-attachments/assets/7f03b87b-0c27-4823-8f3b-36ba4679a91f">|
 |**기본 대화 페이지**|**토론 대화 페이지**|
 |<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/67a7c719-9aef-4a14-adf5-381aba1bd891">|<img width="390" height="220" alt="Debate Page" src="https://github.com/user-attachments/assets/cbfad922-aa72-44ae-bb51-ae8091f36cc6">|
 |**리포트 페이지**|**리포트 리스트 페이지**|
