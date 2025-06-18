@@ -232,83 +232,47 @@ npm run dev
   <summary><b>Backend</b></summary>
     <pre>
       <code>
-📦 WINTER_BOOTCAMP
-┣ 📂 InsideOut-Backend
-┃ ┣ 📂 .github
-┃ ┃ ┣ 📂 ISSUE_TEMPLATE
-┃ ┃ ┣ 📂 workflows
-┃ ┃ ┃ ┣ 📜 ci.yml
-┃ ┃ ┃ ┗ 📜 close-issue-on-dev.yml
-┃ ┃ ┗ 📜 PULL_REQUEST_TEMPLATE.md
-┃ ┣ 📂 .pytest_cache
-┃ ┣ 📂 .terraform
-┃ ┣ 📂 app
-┃ ┃ ┣ 📂 crud
-┃ ┃ ┃ ┣ 📜 __init__.py
-┃ ┃ ┃ ┣ 📜 ai.py
-┃ ┃ ┃ ┣ 📜 chat.py
-┃ ┃ ┃ ┣ 📜 chatroom.py
-┃ ┃ ┃ ┣ 📜 emotionchoose.py
-┃ ┃ ┃ ┣ 📜 emotions.py
-┃ ┃ ┃ ┣ 📜 preparation.py
-┃ ┃ ┃ ┣ 📜 report.py
-┃ ┃ ┃ ┗ 📜 user.py
-┃ ┃ ┣ 📂 routers
-┃ ┃ ┃ ┣ 📜 __init__.py
-┃ ┃ ┃ ┣ 📜 chat.py
-┃ ┃ ┃ ┣ 📜 chatroom.py
-┃ ┃ ┃ ┣ 📜 emotions.py
-┃ ┃ ┃ ┣ 📜 preparation.py
-┃ ┃ ┃ ┣ 📜 report.py
-┃ ┃ ┃ ┗ 📜 user.py
-┃ ┃ ┣ 📂 schemas
-┃ ┃ ┃ ┣ 📜 __init__.py
-┃ ┃ ┃ ┣ 📜 chat.py
-┃ ┃ ┃ ┣ 📜 chatroom.py
-┃ ┃ ┃ ┣ 📜 preparation.py
-┃ ┃ ┃ ┣ 📜 report.py
-┃ ┃ ┃ ┗ 📜 user.py
-┃ ┃ ┣ 📂 tests
-┃ ┃ ┃ ┣ 📜 __init__.py
-┃ ┃ ┃ ┣ 📜 conftest.py
-┃ ┃ ┃ ┣ 📜 test_api_chatroom.py
-┃ ┃ ┃ ┣ 📜 test_api_emotions.py
-┃ ┃ ┃ ┣ 📜 test_api_preparation.py
-┃ ┃ ┃ ┣ 📜 test_api_user.py
-┃ ┃ ┃ ┣ 📜 test_crud_chatroom.py
-┃ ┃ ┃ ┣ 📜 test_crud_emotions.py
-┃ ┃ ┃ ┣ 📜 test_crud_preparation.py
-┃ ┃ ┃ ┣ 📜 test_crud_user.py
-┃ ┃ ┃ ┣ 📜 test_router_chatroom.py
-┃ ┃ ┃ ┣ 📜 test_router_emotions.py
-┃ ┃ ┃ ┣ 📜 test_router_preparation.py
-┃ ┃ ┃ ┗ 📜 test_router_user.py
-┃ ┃ ┣ 📂 uploads
-┃ ┃ ┣ 📂 utils
-┃ ┃ ┃ ┣ 📜 __init__.py
-┃ ┃ ┃ ┣ 📜 database.py
-┃ ┃ ┃ ┣ 📜 main.py
-┃ ┃ ┃ ┣ 📜 models.py
-┃ ┃ ┃ ┣ 📜 prompt.py
-┃ ┃ ┃ ┣ 📜 schemas.py
-┃ ┃ ┃ ┣ 📜 test.html
-┃ ┃ ┃ ┣ 📜 tts.py
-┃ ┃ ┃ ┗ 📜 vision.py
-┃ ┃ ┗ 📜 test.html
-┃ ┣ 📂 db_data
-┃ ┣ 📂 grafana
-┃ ┃ ┣ 📜 .env
-┃ ┃ ┣ 📜 redis.conf
-┃ ┃ ┣ 📜 docker-compose.yml
-┃ ┃ ┣ 📜 docker.sh
-┃ ┃ ┣ 📜 dockerfile
-┃ ┃ ┣ 📜 main.tf
-┃ ┃ ┣ 📜 prometheus.yml
-┃ ┃ ┣ 📜 README.md
-┃ ┗ 📜 requirements.txt
+📦 Wedding-Backend
+┣ 📂 app
+┃ ┣ 📂 crud
+┃ ┃ ┣ 📜 anniversary.py
+┃ ┃ ┣ 📜 invitation.py
+┃ ┃ ┣ 📜 photo.py
+┃ ┃ ┗ 📜 user.py
+┃ ┣ 📂 routers
+┃ ┃ ┣ 📜 anniversary.py
+┃ ┃ ┣ 📜 classify.py
+┃ ┃ ┣ 📜 invitation.py
+┃ ┃ ┣ 📜 layout.py
+┃ ┃ ┣ 📜 photo.py
+┃ ┃ ┗ 📜 user.py
+┃ ┣ 📂 schemas
+┃ ┃ ┣ 📜 __init__.py
+┃ ┃ ┣ 📜 anniversary.py
+┃ ┃ ┣ 📜 invitation.py
+┃ ┃ ┣ 📜 photo.py
+┃ ┃ ┗ 📜 user.py
+┃ ┣ 📂 service
+┃ ┃ ┣ 📜 classify.py
+┃ ┃ ┗ 📜 layout.py
+┃ ┗ 📂 utils
+┃ ┃ ┣ 📜 anniversary.py
+┃ ┃ ┣ 📜 clip_model.py
+┃ ┃ ┣ 📜 gpt_model.py
+┃ ┃ ┣ 📜 mailer.py
+┃ ┃ ┣ 📜 models.py
+┃ ┃ ┣ 📜 s3.py
+┃ ┃ ┣ 📜 security.py
+┃ ┃ ┗ 📜 send_anniversary.py
+┣ 📜 database.py
+┣ 📜 main.py
+┣ 📜 .env
 ┣ 📜 .gitignore
-┣ 📜 CACHEDIR.TAG
+┣ 📜 docker-compose.yml
+┣ 📜 dockerfile
 ┣ 📜 README.md
+┗ 📜 requirements.txt
+
       </code>
     </pre>
 </details>
