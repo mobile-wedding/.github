@@ -18,9 +18,6 @@
 <br>
 
 
-<img width="559" alt="완성된 청첩장4" src="https://github.com/user-attachments/assets/1dcaef60-b113-4557-9edd-783af2c1f625" />
-<img width="559" alt="완성된 청첩장4" src="https://github.com/user-attachments/assets/1dcaef60-b113-4557-9edd-783af2c1f625" />
-
 
 ## 🎥 Demo
 
@@ -44,9 +41,10 @@
 
 
 
+
 ## 📍 System Architecture
 
-<img width="1034" alt="image" src="https://github.com/user-attachments/assets/8b883a81-a272-4ed9-aefc-97d3d4f469bc" />
+<img width="1034" alt="image" src="https://github.com/user-attachments/assets/efbac01f-9132-4554-adca-3d178d5155cf" />
 
 
 
@@ -58,8 +56,6 @@
 :--------:|:------------------------------:|
 **Frontend** |<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=black"> 
 **Backend**  |<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/Uvicorn-22C3E6?style=for-the-badge&logo=uvicorn&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=black"> <img src="https://img.shields.io/badge/Claud-D97757?style=for-the-badge&logo=claude&logoColor=black"> <img src="https://img.shields.io/badge/VisionAPI-F68315?style=for-the-badge&logo=uvicorn&logoColor=white"> <img src="https://img.shields.io/badge/googlecloudplatform-00B274?style=for-the-badge&logo=googlecloudplatform&logoColor=white"> <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white">
-**Monitoring**|<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=nginx&logoColor=black">
-**DevOps**|<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=nginx&logoColor=black"> <img src = "https://img.shields.io/badge/cadvisor-1478FF?style=for-the-badge&logoColor=black"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=nginx&logoColor=black">
 **etc** |![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=1E8CBE&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 
 </div>
@@ -68,7 +64,8 @@
 <img width="1290" height="500" alt="Datebase" src="https://github.com/user-attachments/assets/26492fca-c5a4-4e43-8794-708c0f59899e">
 
 ## 💻 API
-![image](https://github.com/user-attachments/assets/30af0918-c997-40d1-830f-72ddb276fed1)
+![image](https://github.com/user-attachments/assets/a73f6dd0-3312-4cab-bead-b1e83409a401)
+![image](https://github.com/user-attachments/assets/2b7e9058-9a56-4d69-9f15-e680e768062e)
 
 
 
