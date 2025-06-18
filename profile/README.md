@@ -18,8 +18,12 @@
 <br>
 
 
+<img width="559" alt="완성된 청첩장4" src="https://github.com/user-attachments/assets/1dcaef60-b113-4557-9edd-783af2c1f625" />
+<img width="559" alt="완성된 청첩장4" src="https://github.com/user-attachments/assets/1dcaef60-b113-4557-9edd-783af2c1f625" />
+
 
 ## 🎥 Demo
+
 |**회원가입 페이지**|**로그인 페이지**|
 |:-------------------:|:---------:|
 |<img width="390" height="220" alt="Login Page" src="https://github.com/user-attachments/assets/8eb36c03-c54a-4ba8-ae88-34141bc80983">|<img width="390" height="220" alt="category Page" src="https://github.com/user-attachments/assets/3efc75ea-d067-4247-bf71-5418aa8d5f46">|
@@ -31,7 +35,10 @@
 |<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/ba2bdcb1-0548-4435-a296-dc5a83364a16">|<img width="390" height="220" alt="report list Page" src="https://github.com/user-attachments/assets/81eacebe-9696-4104-9f60-159df87d5646">|
 |**보안화면**|**완성된 청첩장**|
 |<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/146180a2-7507-4183-b861-1a5a12357cc6">|<img width="390" height="220" alt="report list Page" src="https://github.com/user-attachments/assets/72b8979e-bcb3-4173-a490-f465e0e8cbaf">|
-
+|**완성된 청첩장**|**완성된 청첩장**|
+|<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/d4e60ee1-bd7c-42d5-b488-e8a35274e19b">|<img width="390" height="220" alt="report list Page" src="https://github.com/user-attachments/assets/f45a699a-8a3b-4fb5-903c-d754089f6285">|
+|**완성된 청첩장**|
+|<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/1dcaef60-b113-4557-9edd-783af2c1f625">
 
 <br>
 
