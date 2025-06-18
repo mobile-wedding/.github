@@ -18,22 +18,14 @@
 <br>
 
 
-
-<img width="1364" alt="홈 사진1" src="https://github.com/user-attachments/assets/cebf9217-f7ba-4f22-bee0-90523399a65e" />
-<img width="1364" alt="홈 사진1" src="https://github.com/user-attachments/assets/cebf9217-f7ba-4f22-bee0-90523399a65e" />
-
-<img width="1363" alt="홈사진2" src="" />
-<img width="1363" alt="홈사진2" src="https://github.com/user-attachments/assets/7f03b87b-0c27-4823-8f3b-36ba4679a91f" />
-
-
 ## 🎥 Demo
 |**회원가입 페이지**|**로그인 페이지**|
 |:-------------------:|:---------:|
 |<img width="390" height="220" alt="Login Page" src="https://github.com/user-attachments/assets/8eb36c03-c54a-4ba8-ae88-34141bc80983">|<img width="390" height="220" alt="category Page" src="https://github.com/user-attachments/assets/3efc75ea-d067-4247-bf71-5418aa8d5f46">|
 |**홈 페이지**|**홈 페이지**|
 |<img width="390" height="220" alt="content Page1" src="https://github.com/user-attachments/assets/cebf9217-f7ba-4f22-bee0-90523399a65e">|<img width="390" height="220" alt="seven ai Page2" src="https://github.com/user-attachments/assets/7f03b87b-0c27-4823-8f3b-36ba4679a91f">|
-|**기본 대화 페이지**|**토론 대화 페이지**|
-|<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/67a7c719-9aef-4a14-adf5-381aba1bd891">|<img width="390" height="220" alt="Debate Page" src="https://github.com/user-attachments/assets/cbfad922-aa72-44ae-bb51-ae8091f36cc6">|
+|**샘플 보기**|**청첩장 만들기**|
+|<img width="390" height="220" alt="Conversations Page3" src="https://github.com/user-attachments/assets/f696afbb-bc08-471f-bddb-be1a1255e01f">|<img width="390" height="220" alt="Debate Page" src="https://github.com/user-attachments/assets/6ebc1d3f-c517-4476-8322-0be4c6b6ce91">|
 |**리포트 페이지**|**리포트 리스트 페이지**|
 |<img width="390" height="220" alt="report Page" src="https://github.com/user-attachments/assets/56df14de-d658-4cdc-8aa8-2490902d65f3">|<img width="390" height="220" alt="report list Page" src="https://github.com/user-attachments/assets/22519cfc-043e-4fc5-92f3-bf4d0c8528ee">|
 
