@@ -227,17 +227,17 @@ npm run dev
 <tr>
 <th>Profiles</th>
 <td width="100" align="center">
-<a href="https://github.com/yksoo00">
-<img src="https://github.com/user-attachments/assets/0f067e5e-7872-4e15-8e6a-d07440b56e01" width="120" height="160">
+<a href="https://github.com/bumjpark">
+<img src="" width="120" height="160">
 </a>
 </td>
 
 <th>Name</th>
-<td width="100" align="center">연경수</td>
+<td width="100" align="center">박종범</td>
 </tr>
 <th>Position</th>
 <td width="150" height="20" align="center">
-Team Leader<br>
+Backend<br>
 Frontend<br>
 </td>
 
