@@ -1,7 +1,39 @@
-# 💒 Mobile Wedding
+💒 Mobile Wedding
 
-모바일 청첩장 플랫폼입니다.  
-사진 자동 분류, 초대코드 보안, 기념일 리마인드 등 다양한 기능을 제공합니다.
+Mobile Wedding은 결혼 문화를 보다 스마트하고 안전하게 바꾸기 위한 모바일 청첩장 플랫폼입니다.
+신랑·신부가 직접 청첩장을 생성하고 공유할 수 있으며, AI 기반 사진 자동 분류, 6자리 초대코드 보안, 기념일 리마인드 알림 등 실용적이고 감성적인 기능을 제공합니다.
+
+✨ 주요 기능
+•	📸 AI 기반 사진 자동 분류 및 배치
+업로드된 웨딩 사진을 GPT + CLIP 모델로 자동 분석하여, 분위기와 스타일에 맞게 청첩장 내에 배치합니다.
+사용자는 복잡한 편집 없이도 감성적인 청첩장을 만들 수 있습니다.
+•	🔐 6자리 초대코드 보안 기능
+청첩장 링크만으로 접근 가능한 기존 구조의 취약점을 보완하여,
+신랑·신부가 직접 설정한 6자리 보안코드를 입력해야 청첩장을 열람할 수 있게 설계했습니다.
+스미싱 및 무단 열람을 효과적으로 방지합니다.
+•	📅 결혼기념일 리마인드 기능
+결혼 후 1주년 기념일에 맞춰
+청첩장을 다시 리마인드 메세지로 보내드리는 기능을 제공합니다.
+단발성 사용이 아닌, 지속 가능한 플랫폼으로서의 가치를 추구합니다.
+•	📤 QR코드/링크 공유 지원
+청첩장은 웹 링크 및 QR 코드로 간편하게 공유할 수 있어
+모바일 환경에서도 접근성이 뛰어납니다.
+
+🛠️ 기술 스택
+•	Frontend: React.js
+•	Backend: FastAPI (Python)
+•	AI 기능: OpenAI GPT + CLIP 모델 기반
+•	DB: MySQL
+•	배포: AWS EC2, S3
+•	보안: 초대코드 기반 접근 제어
+
+💡 개발 목적
+
+기존 모바일 청첩장의 보안 취약점과 일회성 사용 문제를 보완하고,
+AI 기술을 접목해 사용자의 부담을 줄이며 더욱 감성적인 경험을 제공하는 것이 목표입니다.
+
+⸻
+
 
 
 ## 📋 Table of Contents
@@ -55,7 +87,8 @@
 분야| 사용 기술|
 :--------:|:------------------------------:|
 **Frontend** |<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-**Backend**  |<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/Uvicorn-22C3E6?style=for-the-badge&logo=uvicorn&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Claud-D97757?style=for-the-badge&logo=CLIP&logoColor=black"> 
+**Backend**  |<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/Uvicorn-22C3E6?style=for-the-badge&logo=uvicorn&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Claud-D97757?style=for-the-badge&logo=CLIP&logoColor=black"> <img src="https://img.shields.io/badge/Claud-D97757?style=for-the-badge&logo=CLIP&logoColor=black"> 
+
 **etc** |![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=1E8CBE&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 
 </div>
