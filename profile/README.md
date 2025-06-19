@@ -19,13 +19,6 @@ Mobile Wedding은 결혼 문화를 보다 스마트하고 안전하게 바꾸기
 청첩장은 웹 링크 및 QR 코드로 간편하게 공유할 수 있어
 모바일 환경에서도 접근성이 뛰어납니다.
 
-🛠️ 기술 스택
-•	Frontend: React.js
-•	Backend: FastAPI (Python)
-•	AI 기능: OpenAI GPT + CLIP 모델 기반
-•	DB: MySQL
-•	배포: AWS EC2, S3
-•	보안: 초대코드 기반 접근 제어
 
 💡 개발 목적
 
@@ -86,7 +79,7 @@ AI 기술을 접목해 사용자의 부담을 줄이며 더욱 감성적인 경�
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
-**Frontend** |<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+**Frontend** |<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 **Backend**  |<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> <img src="https://img.shields.io/badge/Uvicorn-22C3E6?style=for-the-badge&logo=uvicorn&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Claud-D97757?style=for-the-badge&logo=CLIP&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 **etc** |![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=1E8CBE&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 
